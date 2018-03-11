@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP_Edad_Usuario</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="registrar">Registrar</string>
+    <string name="byStiven">By Stiven</string>
+    <string name="fechaNacimiento">Fecha de Nacimiento dd/MM/yyyy</string>
+    <string name="title">Calcula tu Edad</string>
+</resources>
